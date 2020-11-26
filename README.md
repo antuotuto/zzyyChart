@@ -1,5 +1,9 @@
 # zzyyChart
 
+文档说明
+
+https://hhhh.yuque.com/cu3za7/nfk3v6/phxva8
+
 项目地址
 
 https://github.com/antuotuto/zzyyChart
